@@ -16,3 +16,4 @@ fs.readFile('./exam.txt', 'utf8', (err, data) => {
         console.log(data);
     }
 })
+
